@@ -1,0 +1,17 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "<Your Default Connection String>",
+    "RedisConnection": "<Your Redis Connection String>"
+  },
+  "JWT": {
+    "Key": "<Your JWT Secret Key>"
+  },
+  "EmailSettings": {
+    "SmtpServer": "<SMTP Server>",
+    "SmtpPort": "<SMTP Port>",
+    "SenderName": "<Sender Name>",
+    "SenderEmail": "<Sender Email>",
+    "Password": "<Email Password>"
+  },
+  "FrontBaseUrl": "<Your Frontend Base URL>"
+}
